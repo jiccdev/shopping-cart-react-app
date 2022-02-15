@@ -1,0 +1,26 @@
+.offcanvas-body ul {
+  background-color: #f5f0f0;
+  overflow: scroll;
+  height: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.offcanvas-body ul li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5rem 0.3rem;
+}
+
+.offcanvas-body ul li .item-section {
+  font-size: 0.8rem;
+}
+
+.item-section.desc {
+  width: 150px;
+}
+
+.offcanvas-body ul li .item-section .item-img {
+  width: 3rem;
+}

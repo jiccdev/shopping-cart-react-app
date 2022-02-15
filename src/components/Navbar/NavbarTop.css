@@ -1,0 +1,12 @@
+.container {
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+}

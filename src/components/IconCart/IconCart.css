@@ -1,0 +1,11 @@
+.i-shipping-cart {
+  color: #3e3f3e;
+  font-size: 1.4rem;
+  padding-left: 10px;
+  position: relative;
+  margin-right: 20px;
+}
+
+.i-shipping-cart:hover {
+  cursor: pointer;
+}

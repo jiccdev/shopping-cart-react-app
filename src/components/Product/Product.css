@@ -1,0 +1,46 @@
+.card {
+  margin: 0.5rem;
+  height: 52rem;
+}
+
+.card .card-top {
+  width: 100% !important;
+}
+
+.card .card-body {
+  padding: 0 1.5rem;
+  max-height: 50px;
+}
+
+.card-body .card-text {
+  display: flex;
+  align-items: center;
+}
+
+.card-title,
+.card-text {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100% !important;
+  padding: 0.1rem 0;
+}
+
+.card-title.title-cart {
+  height: 3.2rem;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.card-text small {
+  color: rgb(128, 126, 126);
+}
+.card-text span {
+  color: #0eb165;
+  margin-left: 1rem;
+}
+
+.btn {
+  margin: 1.5rem 0;
+  display: block;
+  width: 100%;
+}

@@ -1,0 +1,13 @@
+.bubleAlert {
+  position: absolute;
+  margin-left: 13px;
+  background-color: #e63a0f;
+  font-size: 0.83rem;
+  border-radius: 50%;
+  height: 1.35rem;
+  width: 1.4rem;
+  text-align: center;
+  color: #ffffff;
+  z-index: 1;
+  margin-left: 20px;
+}
